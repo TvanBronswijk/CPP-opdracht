@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="week2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="alpacallama.hpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="template_iterators_begin.hpp">
+    <ClCompile Include="week3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

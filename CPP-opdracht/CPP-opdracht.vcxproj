@@ -19,9 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="alpacallama.hpp" />
-    <ClCompile Include="template_iterators_begin.hpp" />
-    <ClCompile Include="week2.cpp" />
+    <ClCompile Include="week3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
